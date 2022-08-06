@@ -19,15 +19,19 @@
 
 ![image](https://user-images.githubusercontent.com/64189668/183253356-46a7f697-732f-45d9-ada4-583292a350ed.png)
 
-6. Đăng ký & Đăng nhập
+6. Tất cả sản phẩm
+
+![image](https://user-images.githubusercontent.com/64189668/183253584-2a74d3db-ec48-4d95-b82a-0d77456c3a51.png)
+
+7. Đăng ký & Đăng nhập
 
 ![image](https://user-images.githubusercontent.com/64189668/183253408-2331bd96-5cee-4eef-8392-5619d6713591.png)
 
-7. Giỏ hàng
+8. Giỏ hàng
 
 ![image](https://user-images.githubusercontent.com/64189668/183253427-143b6618-db88-4607-94b1-3240ad966ff3.png)
 
-8. Thanh toán
+9. Thanh toán
 
 ![image](https://user-images.githubusercontent.com/64189668/183253443-4058d74a-16ab-4a45-ae2d-f3aa79fc133f.png)
 
